@@ -2,6 +2,4 @@ test
 new changes
 new changes 2
 
-new changes 3
-new changes to test amend command
-new change 4
+new changes 3 
